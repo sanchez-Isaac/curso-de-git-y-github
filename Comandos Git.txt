@@ -1,7 +1,7 @@
 git help
 git help commit u otros comandos...
 git config --global user.name "Isaac Sanchez"
-git config --global user.email "idsm_2000@hotmail.com"
+git config --global user.email "ids@hotmail.com"
 git config --global -e (Permite ver lo que haz hecho hasta el momento)
 Estando dentro de ese menu, puedes presionar "A" y hacer las modificaciones
 
